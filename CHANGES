@@ -1,6 +1,11 @@
 Changelog for Data-Object-Role-Stashable
 
-2.00 2020-02-17T04:03:28
+2.01 2020-02-17T04:55:56
+ - Added release updates
+ - Re-releasing to the CPAN
+
+2.00 2020-02-17T04:03:29
+ - Built release version 2.00
  - Added release updates
  - Initial implementation
  - Initial commit
